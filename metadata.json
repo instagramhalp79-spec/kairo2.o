@@ -1,0 +1,7 @@
+{
+  "name": "KAIRO Music",
+  "description": "Cinematic red and black music player with local audio import, curated online streaming, playlists, and rich playback controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
